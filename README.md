@@ -1,3 +1,3 @@
 # SimpleRayTracing
 
-<img src="scene.png" width="350" style="margin-left: 50px"> 
+<img src="scene.png" width="400" style="margin-left: 50px"> 
